@@ -1,4 +1,4 @@
-# 16-887: Robotic Caregivers and Intelligent Physical Collaboration (Spring 2022)
+# 16-887: Robotic Caregivers and Intelligent Physical Collaboration (Spring 2023)
 
 <style>
 .container {
@@ -25,18 +25,16 @@
 ## Course Info
 
 #### [Syllabus](https://docs.google.com/document/d/1YuGsLEHY-cYkI0e8NIz5HTtkMquaZ6brL2-2ra0Hlp8/edit?usp=sharing)  
-#### [Course Schedule](https://docs.google.com/spreadsheets/d/1mzYdw8ZRwK1TIg1UjgW39zMpta80lcb8UypGLAgKtgU/edit?usp=sharing)  
-#### [Course Project Statement](https://docs.google.com/document/d/1dPLn8nh9M0qpyCdsB2QQyhxgwoyqxKqENa0YgC5D-pw/edit?usp=sharing)
 
-**Time**: Monday & Wednesday 1:25 - 2:45 PM  
+**Time**: Monday & Wednesday 2:00 - 3:20 PM  
 **Location**: NSH 3002  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
-**Office Hours**: Wednesday 2:45 - 3:45 PM  
+**Office Hours**: Wednesday 3:20 - 4:00 PM  
 **Course Questions and Discussion**: Slack -- Registered students will be added
 
 ---
 
-## Final Projects
+## Final Project Examples from last Spring 2022
 
 ### Wearable Interface for Controlling a Collaborative Mobile Manipulator
 [[Presentation PDF]](media/Wearable.pdf)
