@@ -26,10 +26,10 @@
 
 #### [Syllabus](https://docs.google.com/document/d/1ErwhtIxKNvjSrdTAOVQERCSbPnF-3080vzTFMskgZW0/edit?usp=sharing)  
 
-**Time**: Monday & Wednesday 2:00 - 3:20 PM  
+**Time**: Monday & Wednesday 12:30 - 1:50 PM  
 **Location**: NSH 3002  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
-**Office Hours**: Wednesday 3:20 - 4:00 PM  
+**Office Hours**: Wednesday 1:50 - 2:30 PM  
 **Course Questions and Discussion**: Slack -- Registered students will be added
 
 ---
