@@ -3,7 +3,6 @@ import sensor_msgs.point_cloud2 as pc2
 from sensor_msgs.msg import PointCloud2, PointCloud
 from geometry_msgs.msg import Point32
 rospy.init_node('pc')
-listener = tf.TransformListener(True, rospy.Duration(10.0))
 listener = tf.TransformListener()
 listener.waitForTransform('base_link', 'camera_color_optical_frame', rospy.Time(), rospy.Duration(4.0))
 
