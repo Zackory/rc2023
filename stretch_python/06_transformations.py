@@ -3,6 +3,7 @@ import stretch_body.robot
 robot = stretch_body.robot.Robot()
 robot.startup()
 
+rospy.init_node('transformations')
 listener = tf.TransformListener()
 from_frame_rel = 'base_link'
 to_frame_rel = 'link_grasp_center'
