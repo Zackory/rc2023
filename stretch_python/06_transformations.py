@@ -1,9 +1,7 @@
 import rospy, tf
-import stretch_body.robot
-robot = stretch_body.robot.Robot()
-robot.startup()
+import hello_helpers.hello_misc as hm
 
-rospy.init_node('transformations')
+node = hm.HelloNode.quick_create('transformations')
 listener = tf.TransformListener()
 from_frame_rel = 'base_link'
 to_frame_rel = 'link_grasp_center'
@@ -11,8 +9,7 @@ to_frame_rel = 'link_grasp_center'
 rospy.sleep(1.0)
 rate = rospy.Rate(1)
 
-robot.arm.move_to(0.5)
-robot.push_command()
+node.move_to_pose({'joint_arm': 0.5}, return_before_done=True)
 
 while not rospy.is_shutdown():
     try:
