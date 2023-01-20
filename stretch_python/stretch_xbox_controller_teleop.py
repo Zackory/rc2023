@@ -367,13 +367,13 @@ def manage_stow(robot, controller_state):
 def x_button(robot, controller_state):
     x = controller_state['left_button_pressed']
     if x and robot.is_calibrated():
-        robot.base.translate_by(x_m=0.1)
-        robot.lift.move_to(0.6)
-        robot.arm.move_to(0.0)
+        robot.base.rotate_by(3.1415/4)
+        robot.lift.move_to(0.7)
+        robot.arm.move_to(0.1)
         robot.push_command()
         robot.arm.wait_until_at_setpoint()
-        robot.base.translate_by(x_m=-0.1)
-        robot.lift.move_to(0.3)
+        robot.base.rotate_by(-3.1415/4)
+        robot.lift.move_to(0.4)
         robot.arm.move_to(0.5)
         robot.push_command()
         robot.arm.wait_until_at_setpoint()
