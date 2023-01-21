@@ -9,6 +9,7 @@ robot.lift.move_to(0.4) # Move lift
 robot.head.move_by('head_pan', np.radians(45)) # Move head pan
 robot.head.move_by('head_tilt', np.radians(45)) # Move head tilt
 robot.base.translate_by(0.2) # Move robot base 0.2 meters forward
+robot.base.rotate_by(np.radians(30)) # Rotate base by 30 degrees
 # robot.base.set_rotational_velocity(v_r=0.1) # You can also set base rotational velocity
 
 # Dexterous wrist and gripper
