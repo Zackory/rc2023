@@ -26,6 +26,8 @@
 
 #### [Syllabus](https://docs.google.com/document/d/1ErwhtIxKNvjSrdTAOVQERCSbPnF-3080vzTFMskgZW0/edit?usp=sharing)  
 
+#### [Course Schedule](https://docs.google.com/spreadsheets/d/1uwG0DBwU2lGfzsGBvEgk-mQjlq_SGgmwQbAg5PaKan4/edit?usp=sharing)  
+
 #### [Course Project Statement](https://docs.google.com/document/d/1oWTJWTmuLOAim5ofcozVergusDQW6OwHfSeVpY0MVUM/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 12:30 - 1:50 PM  
