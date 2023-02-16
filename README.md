@@ -30,6 +30,8 @@
 
 #### [Course Project Statement](https://docs.google.com/document/d/1oWTJWTmuLOAim5ofcozVergusDQW6OwHfSeVpY0MVUM/edit?usp=sharing)  
 
+#### [Course Project Grading Rubric](https://docs.google.com/document/d/1_utDSkDYw1NuT-zqvhW_06ndepuDD5P4vj1WAv0l2UA/edit?usp=sharing)  
+
 **Time**: Monday & Wednesday 12:30 - 1:50 PM  
 **Location**: NSH 3002  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
