@@ -4,11 +4,21 @@ import stretch_body.hello_utils as hu
 import urdfpy
 import numpy as np
 import ikpy.chain
+import stretch_body.robot
 
 target_point = [-0.043, -0.441, 0.654]
 target_orientation = ikpy.utils.geometry.rpy_matrix(0.0, 0.0, -np.pi/2)
 pretarget_orientation = ikpy.utils.geometry.rpy_matrix(0.0, 0.0, 0.0)
 
+
+# Setup the Python API
+robot = stretch_body.robot.Robot()
+if not robot.startup():
+    print("Failed to open connection to the robot")
+
+# Ensure robot is homed
+if not robot.is_calibrated():
+    robot.home()
 
 urdf_path = str((pathlib.Path(hu.get_fleet_directory()) / 'exported_urdf' / 'stretch.urdf').absolute())
 tree = ikpy.urdf.utils.get_urdf_tree(urdf_path, "base_link")[0]
