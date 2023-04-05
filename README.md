@@ -30,7 +30,12 @@
 
 #### [Course Project Statement](https://docs.google.com/document/d/1oWTJWTmuLOAim5ofcozVergusDQW6OwHfSeVpY0MVUM/edit?usp=sharing)  
 
-#### [Course Project Grading Rubric](https://docs.google.com/document/d/1_utDSkDYw1NuT-zqvhW_06ndepuDD5P4vj1WAv0l2UA/edit?usp=sharing)  
+#### [Midterm Presentation Grading Rubric](https://docs.google.com/document/d/1_utDSkDYw1NuT-zqvhW_06ndepuDD5P4vj1WAv0l2UA/edit?usp=sharing)  
+
+#### [Final Presentation Grading Rubric](https://docs.google.com/document/d/1vKpjrNR3gaVmzSd1aw-s67nSS6CUuTJsI-m2cXB_c78/edit?usp=sharing)  
+
+#### [Final Report Grading Rubric](https://docs.google.com/document/d/1O3MVdvi250cAr2j5N8iNtJmIc_ZIyzVk7eIrUE-JPjI/edit?usp=sharing)  
+
 
 **Time**: Monday & Wednesday 12:30 - 1:50 PM  
 **Location**: NSH 3002  
@@ -70,6 +75,6 @@ Prior experience with the Python programming language is encouraged and extremel
 
 ## Credit
 
-Earlier versions of this course were co-developed and co-instructed with [Prof. Charlie Kemp](https://charliekemp.com) at Georgia Tech. An adaptation of this course, [Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/), is still taught at Georgia Tech (as of Fall 2021).
+Earlier versions of this course were co-developed and co-instructed with [Prof. Charlie Kemp](https://charliekemp.com) at Georgia Tech. An adaptation of this course, [Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/), is still taught at Georgia Tech (as of Spring 2023).
 
 ![RCICP](rcicp.png)
