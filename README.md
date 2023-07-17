@@ -45,22 +45,17 @@
 
 ---
 
-## Final Project Examples from last Spring 2022
+## Final Projects
 
-### Wearable Interface for Controlling a Collaborative Mobile Manipulator
-[[Presentation PDF]](media/Wearable.pdf)
+### Food Basket Delivery with the Stretch
+[[Presentation PDF]](media/food_basket.pdf)
 
-<img src="media/Wearable_1.png" alt="Wearable_1" width="45%"/> &emsp; <img src="media/Wearable_2.png" alt="Wearable_2" width="45%"/>
+<img src="media/food_basket_1.png" alt="food_basket_1" width="45%"/> &emsp; <img src="media/food_basket_2.png" alt="food_basket_2" width="45%"/>
 
-###  AquaBot: Assistive Drinking Robot for People with Mobility Impairments
+###  CPU: Clothing Picker Upper
 [[Presentation PDF]](media/AquaBot.pdf)
 
-<img src="media/AquaBot_1.png" alt="AquaBot_1" width="45%"/> &emsp; <img src="media/AquaBot_2.png" alt="AquaBot_2" width="45%"/>
-
-###   WeHelp: Wheelchair Helper
-[[Presentation PDF]](media/WeHelp.pdf) | [[Code]](https://github.com/Walleclipse/WeHelp)
-
-<img src="media/WeHelp_1.png" alt="WeHelp_1" width="45%"/> &emsp; <img src="media/WeHelp_2.png" alt="WeHelp_2" width="45%"/>
+<img src="media/cpu_1.png" alt="cpu_1" width="45%"/>
 
 ---
 
