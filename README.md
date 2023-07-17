@@ -50,7 +50,7 @@
 ### Food Basket Delivery with the Stretch
 [[Presentation PDF]](media/food_basket.pdf)
 
-<img src="media/food_basket_1.png" alt="food_basket_1" width="45%"/> &emsp; <img src="media/food_basket_2.png" alt="food_basket_2" width="45%"/>
+<img src="media/food_basket_1.png" alt="food_basket_1" width="26%"/> &emsp; <img src="media/food_basket_2.png" alt="food_basket_2" width="64%"/>
 
 ###  CPU: Clothing Picker Upper
 [[Presentation PDF]](media/AquaBot.pdf)
