@@ -26,7 +26,7 @@
 ## Final Projects
 
 ### Food Basket Delivery with the Stretch
-[[Presentation PDF]](media/food_delivery.pdf)
+[[Presentation PDF]](media/food_delivery.pdf) [[Project Report]](media/16_887_Team_1_Project_Report.pdf)
 
 <img src="media/food_basket_1.png" alt="food_basket_1" width="26%"/> &emsp; <img src="media/food_basket_2.png" alt="food_basket_2" width="64%"/>
 
@@ -34,6 +34,11 @@
 [[Presentation PDF]](media/cpu.pdf)
 
 <img src="media/cpu_1.png" alt="cpu_1" width="45%"/>
+
+### Stretch RE1 Voice Control
+[[Presentation PDF]](media/voice.pdf)
+
+<img src="media/voice_1.png" alt="voice_1" width="45%"/>
 
 ---
 
