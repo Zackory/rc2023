@@ -53,8 +53,6 @@ Prior experience with the Python programming language is encouraged and extremel
 
 ## History and Example Projects
 
-This course has been developed and inspired based on a prior project-based course on mobile manipulation for robotic caregiving, taught at CMU and Georgia Tech.
-
 Examples of past robotic caregiving projects can be found on the following course webpage: [16-887: Robotic Caregivers and Intelligent Physical Collaboration (2022)](https://zackory.com/rc2022/)
 
 
