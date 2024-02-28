@@ -51,6 +51,13 @@ This is a graduate-level project-based course for students interested in physica
 ### Pre-Requisites
 Prior experience with the Python programming language is encouraged and extremely beneficial. 
 
+## History and Example Projects
+
+This course has been developed and inspired based on a prior project-based course on mobile manipulation for robotic caregiving, taught at CMU and Georgia Tech.
+
+Examples of past robotic caregiving projects can be found on the following course webpage: [16-887: Robotic Caregivers and Intelligent Physical Collaboration (2022)](https://zackory.com/rc2022/)
+
+
 ## Credit
 
 Earlier versions of this course were co-developed and co-instructed with [Prof. Charlie Kemp](https://charliekemp.com) at Georgia Tech. An adaptation of this course, [Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/), is still taught at Georgia Tech (as of Spring 2023).
